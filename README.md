@@ -30,6 +30,10 @@ curl -s https://cdn.jsdelivr.net/gh/Disdjj/commit-reviewer-prompt@main/prompt.md
 - 分析工作重心、代码影响力、工作习惯
 - 生成结构化的年度工作报告（REPORT.md）
 
+## 示例报告
+
+查看一个真实的生成报告示例：[example.minicc.report.md](./example.minicc.report.md)
+
 ## License
 
 MIT
