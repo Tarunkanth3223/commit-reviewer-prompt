@@ -2,43 +2,33 @@
 
 一个用于分析 Git 仓库中开发者年度工作贡献的 AI Prompt。
 
-## 快速使用
+## 使用方式
 
-在终端执行以下命令获取 prompt：
+### 方式一：一步到位
 
-```bash
-curl -s https://raw.githubusercontent.com/Disdjj/commit-reviewer-prompt/main/prompt.md
+直接将以下指令发送给你的 coding agent（Claude Code、Cursor、Cline 等）：
+
+```
+curl -s https://raw.githubusercontent.com/Disdjj/commit-reviewer-prompt/main/prompt.md 获取指令内容并执行
 ```
 
-然后将输出内容复制给你的 coding agent（Claude Code、Cursor、Cline 等）执行即可。
+备用链接（国内可用）：
 
-### 备用链接
-
-如果上述链接无法访问，可使用镜像：
-
-```bash
-# jsDelivr CDN
-curl -s https://cdn.jsdelivr.net/gh/Disdjj/commit-reviewer-prompt@main/prompt.md
-
-# ghproxy 代理
-curl -s https://ghproxy.com/https://raw.githubusercontent.com/Disdjj/commit-reviewer-prompt/main/prompt.md
 ```
+curl -s https://cdn.jsdelivr.net/gh/Disdjj/commit-reviewer-prompt@main/prompt.md 获取指令内容并执行
+```
+
+### 方式二：手动复制
+
+1. 打开 [prompt.md](./prompt.md)
+2. 复制全部内容
+3. 粘贴给你的 coding agent 执行
 
 ## 功能
 
 - 自动提取指定作者在指定时间范围内的 Git 提交记录
 - 分析工作重心、代码影响力、工作习惯
 - 生成结构化的年度工作报告（REPORT.md）
-
-## 输出示例
-
-生成的报告包含：
-
-- **摘要**：年度关键词与主要贡献
-- **工作内容**：主导或深度参与的重要功能/模块
-- **季度工作重点**：Q1-Q4 各季度工作重心
-- **代码与工程质量分析**：提交活跃度、类型分布、触达模块
-- **总结与展望**
 
 ## License
 
