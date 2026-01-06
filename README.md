@@ -4,20 +4,24 @@
 
 ## 快速使用
 
-在你的 coding agent（Claude Code、Cursor、Cline 等）中执行：
+在终端执行以下命令获取 prompt：
 
-```
+```bash
 curl -s https://raw.githubusercontent.com/Disdjj/commit-reviewer-prompt/main/prompt.md
 ```
 
-然后根据返回的指令进行操作。
+然后将输出内容复制给你的 coding agent（Claude Code、Cursor、Cline 等）执行即可。
 
-### 一键指令
+### 备用链接
 
-直接复制以下内容发送给你的 coding agent：
+如果上述链接无法访问，可使用镜像：
 
-```
-请获取并执行 https://raw.githubusercontent.com/Disdjj/commit-reviewer-prompt/main/prompt.md 中的指令
+```bash
+# jsDelivr CDN
+curl -s https://cdn.jsdelivr.net/gh/Disdjj/commit-reviewer-prompt@main/prompt.md
+
+# ghproxy 代理
+curl -s https://ghproxy.com/https://raw.githubusercontent.com/Disdjj/commit-reviewer-prompt/main/prompt.md
 ```
 
 ## 功能
