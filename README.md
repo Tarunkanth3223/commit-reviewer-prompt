@@ -9,13 +9,13 @@
 直接将以下指令发送给你的 coding agent（Claude Code、Cursor、Cline 等）：
 
 ```
-curl -s https://raw.githubusercontent.com/Disdjj/commit-reviewer-prompt/main/prompt.md 获取指令内容并执行
+运行 `curl -s https://raw.githubusercontent.com/Disdjj/commit-reviewer-prompt/main/prompt.md` 获取指令内容并执行
 ```
 
 备用链接（国内可用）：
 
 ```
-curl -s https://cdn.jsdelivr.net/gh/Disdjj/commit-reviewer-prompt@main/prompt.md 获取指令内容并执行
+运行 `curl -s https://cdn.jsdelivr.net/gh/Disdjj/commit-reviewer-prompt@main/prompt.md` 获取指令内容并执行
 ```
 
 ### 方式二：手动复制
